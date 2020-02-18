@@ -14,3 +14,5 @@ service卸載命令：
 ```
 service.bat remove
 ```
+
+安裝完後 以後要啟動只要執行startup.bat即可
